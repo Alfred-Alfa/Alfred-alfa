@@ -2,7 +2,7 @@
 
 I'm Alfred Francis, a Web Designer passionate about crafting visually stunning and user-friendly websites. With expertise in UI/UX design, responsive layouts, and modern web technologies, I create content on web design trends, best practices, and creative inspiration. My goal is to educate, inspire, and contribute to a more beautiful and functional web.
 
-<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/alfred-francis-71a295334"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
