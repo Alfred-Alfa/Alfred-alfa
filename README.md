@@ -9,6 +9,7 @@ I'm Alfred Francis, a Web Designer passionate about crafting visually stunning a
 
 - **Name**: Alfred Francis 
 - **From**: India,Kerala
+- **Email**: alfredfrancis0012@gmail.com
 
 </details>
 <br>
